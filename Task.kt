@@ -16,7 +16,7 @@ fun main() {
     val resultsquared = Math.pow(result,power)
     /*Step 4 result*/
     println("Squared Answer : " + resultsquared)
-    val resultroot = Math.sqrt(result)
+    val resultroot = Math.sqrt(resultsquared)
     /*Step 5 result*/
     println("SquareRoot Answer : " + resultroot)
 }
